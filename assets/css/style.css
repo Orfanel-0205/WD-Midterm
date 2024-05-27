@@ -1,0 +1,83 @@
+
+body { 
+    background-image: url(../img/Image\ Young\ Cute\ Redhead\ Business\ Woman\ Stock\ Photo\ 1507635359\ _\ Shutterstock.jpg);
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+  height: auto;
+}
+.pic1{
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 50%;
+    
+
+}
+.h1{ 
+    font-size: small;
+    display: flex;
+   align-items: end;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto; 
+    width: 60%;
+    padding: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 0;
+    left: 35%;
+    
+    
+   
+}
+
+   .h2 {
+    font-size: large;
+    color: azure;
+    margin: auto; 
+    width: 60%; 
+    padding: 20px;
+    border-radius: 20px;
+    
+   }
+  .p2{
+    color: azure;
+    margin: auto; 
+    width: 60%; 
+    padding: 20px;
+    border-radius: 20px;
+  } 
+  .div1{
+    display: flexbox;
+    align-self: flex-end;
+    background-color: white; 
+    margin: auto; 
+    width: 30%; 
+    padding: 30px;
+
+  }
+  .p1{
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .par2{
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .p3{
+    font-style: italic;
+    text-decoration: underline;
+  }
+   .submit{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 165, 0, 0.8) ;
+   }
+   .div0{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+   }
+
